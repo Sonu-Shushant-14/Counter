@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  color: rgb(255, 13, 0);
+  margin-top: 10%;
+}
+.btnn{
+  padding: 7px 18px;
+  font-size: 20px;
+  border-color: blueviolet;
+  background-color: antiquewhite;
+  margin-top: 10px;
+}
+
+.IncDec {
+  font-size: 20px;
+  margin-top: 10px;
+
+}
+
+.inputNum {
+  height: 25px;
+  border-radius: 7px;
+  /* padding-bottom: 20px; */
+  width: 80px;
+}
+
+.btn{
+    padding: 7px 18px;
+    font-size: 20px;
+    border-color: blueviolet;
+    background-color: antiquewhite;
+    margin-top: 10px;
+  }
